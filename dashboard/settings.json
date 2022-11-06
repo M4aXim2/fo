@@ -1,0 +1,14 @@
+{
+    "website" : {
+      "support": "https://notebot.on.spiceworks.com/portal",
+      "domain": "localhost"
+    },
+    "config": {
+        "http": {
+          "port": 80
+        },
+        "callback": "https://fomo.gq/callback",
+        "clientID": "765267492284661801",
+        "secret": "REPLIT VARIABLE TO HIDE IT!!"
+    }
+  }
